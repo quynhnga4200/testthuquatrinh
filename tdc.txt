@@ -1,1 +1,2 @@
-Đây là file bên branch 10_Nga. Cao đẳng công nghệ thủ Đức TDC. 53 Võ văn ngânhrdthdthhgd
+Đây là file dùng để merge sang branch main. Cao đẳng CNTD
+Cao đẳng CN Thủ Đức 53 Võ Văn Ngân
